@@ -1,1 +1,1 @@
-## Hey, there 👋 :wave:
+## Hey, there 👋:wave:
