@@ -15,7 +15,9 @@
 !["HTML"](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 !["Css"](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 !["JS"](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-!["vuejs"](https://img.shields.io/badge/Vue.js-ffffff?style=for-the-badge&logo=vue.js&logoColor=42b983)
+
+!["vuejs"](https://img.shields.io/badge/Vue.js-ffffff?style=for-the-badge&logo=vue.js&logoColor=34495e,42b983)
+
 !["Bootstrap"](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 !["PhP"](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 !["MySql"](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
