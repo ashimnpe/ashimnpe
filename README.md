@@ -19,7 +19,6 @@
 !["vuejs"](https://img.shields.io/badge/Vue.js-ffffff?style=for-the-badge&logo=vue.js&logoColor=41b883)
 !["PhP"](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 !["MySql"](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-!["bootstrap-vue"](https://img.shields.io/badge/bootstrap-vue-00000F?style=for-the-badge&logo=bootstrap-vue&logoColor=white)
 
 !["Bootstrap"](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 !["GitHub"](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
