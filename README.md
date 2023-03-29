@@ -18,10 +18,9 @@
 !["PhP"](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 !["vuejs"](https://img.shields.io/badge/Vue.js-ffffff?style=for-the-badge&logo=vue.js&logoColor=41b883)
-!["vuejs"](https://img.shields.io/badge/laravel-ff0000?style=for-the-badge&logo=laravel&logoColor=41b883)
+!["Laravel"](https://img.shields.io/badge/laravel-ff0000?style=for-the-badge&logo=laravel&logoColor=41b883)
 
 !["Bootstrap"](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 !["GitHub"](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-!["Docker"](https://img.shields.io/badge/Docker-563D7C?style=for-the-badge&logo=docker&logoColor=blue)
 
 
