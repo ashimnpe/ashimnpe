@@ -23,4 +23,6 @@
 !["Bootstrap"](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 !["GitHub"](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+!["Mysql"](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=mysql&logoColor=white)
+!["pgsql"](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=pgsql&logoColor=white)
 
