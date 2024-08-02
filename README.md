@@ -24,5 +24,5 @@
 !["GitHub"](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 !["Mysql"](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=mysql&logoColor=white)
-!["pgsql"](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=pgsql&logoColor=white)
+!["PostgreSQL"](https://img.shields.io/badge/PostgreSQL-100000?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
