@@ -4,9 +4,9 @@
 - 📫 How to reach me **asimneupane50@gmail.com**
 
 <p align="left">
-<a href="https://www.linkedin.com/in/epnmihsa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/epnmihsa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashimnpe/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/epnmihsa" height="30" width="40" /></a>
 <a href="https://instagram.com/__ashimnpe__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__ashimnpe__" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100077346519658" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ashimnpe" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/ashimnpe218" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ashimnpe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
